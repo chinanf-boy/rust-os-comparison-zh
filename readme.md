@@ -1,5 +1,5 @@
-# flosse/rust-os-comparison [![explain]][source] [![translate-svg]][translate-list] 
-    
+# flosse/rust-os-comparison [![explain]][source] [![translate-svg]][translate-list]
+
 <!-- [![size-img]][size] -->
 
 [explain]: http://llever.com/explain.svg
@@ -8,42 +8,39 @@
 [translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 [size-img]: https://packagephobia.now.sh/badge?p=Name
 [size]: https://packagephobia.now.sh/result?p=Name
-    
 
+「 [Rust](https://rustlang.org)编写的操作系统的比较。 」
 
-「 desc 」
-
-[中文](./readme.md) | [english](https://github.com/flosse/rust-os-comparison) 
-
+[中文](./readme.md) | [english](https://github.com/flosse/rust-os-comparison)
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'flosse/rust-os-comparison' -->
 <!-- commit = 'cc7f3075ba5754d2d1045d7834ebc74fb12f2e12' -->
 <!-- time = '2018-01-24' -->
-翻译的原文 | 与日期 | 最新更新 | 更多
----|---|---|---
-[commit] | ⏰ 2018-01-24 | ![last] | [中文翻译][translate-list]
+
+| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
+| ---------- | ------------- | -------- | -------------------------- |
+| [commit]   | ⏰ 2018-01-24 | ![last]  | [中文翻译][translate-list] |
 
 [last]: https://img.shields.io/github/last-commit/flosse/rust-os-comparison.svg
 [commit]: https://github.com/flosse/rust-os-comparison/tree/cc7f3075ba5754d2d1045d7834ebc74fb12f2e12
 
 <!-- doc-templite END generated -->
 
-
 ### 贡献
 
 欢迎 👏 勘误/校对/更新贡献 😊 [具体贡献请看](https://github.com/chinanf-boy/chinese-translate-list#贡献)
-        
 
 ## 生活
 
-[hIf help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧!  💰](https://github.com/chinanf-boy/live-need-money)
+[hIf help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
+
 # Rust OS 比较
 
 [Rust](https://rustlang.org)编写的操作系统的比较。
